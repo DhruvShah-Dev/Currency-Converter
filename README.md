@@ -27,9 +27,4 @@ Contributions are welcome! Feel free to fork this project, open issues, or submi
 
 License:
 This project is licensed under the MIT License.
-    
-#### Stage, Commit, and Push `README.md`
-1. Stage the file:
-   ```bash
-   git add README.md
 
