@@ -22,9 +22,9 @@ A Python program that converts an amount from one currency to another using live
 3. Run the program:
     python currency_converter.py
 
-Contributions:
+## Contributions:
 Contributions are welcome! Feel free to fork this project, open issues, or submit pull requests.
 
-License:
+## License:
 This project is licensed under the MIT License.
 
